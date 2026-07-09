@@ -6,6 +6,16 @@ __pycache__/
 # C extensions
 *.so
 
+# Data and Models (Large Files)
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.bin
+
 # Distribution / packaging
 .Python
 build/
